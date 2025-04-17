@@ -14,15 +14,15 @@ Para configurar e habilitar a Análise do Texto do Azure, usei o AI Language, qu
 
 Utilizei a frase do laboratório para executar uma análise de sentimentos com o Azure AI Language service. O mesmo utiliza o Natural Language Processing (NLP) para extrair o sentido semântico do texto ou mesmo formular respostas em linguagem natural.
 
-![Analise de Sentimentos](https://github.com/goncasthiago/LanguageCongnitve/blob/main/img/AnalyzedSentiment_input.png?raw=true)
+![Analise de Sentimentos](https://github.com/goncasthiago/languageStudioAzure/blob/main/img/AnalyzedSentiment_input.png?raw=true)
 
 Outro teste feito foi utilizar o Azure AI Language para extrair frases chaves dentro de um texto
 
-![Frases Chave](https://github.com/goncasthiago/LanguageCongnitve/blob/main/img/ExtractKeyPhrases_input.png?raw=true)
+![Frases Chave](https://github.com/goncasthiago/languageStudioAzure/blob/main/img/ExtractKeyPhrases_input.png?raw=true)
 
 Por último, continuei utilizando a ferramenta para resumir o texto e tirar alguns insights do mesmo com a funcionalidade Summarize.
 
-![Resumo](https://github.com/goncasthiago/LanguageCongnitve/blob/main/img/Summarization_input.png?raw=true)
+![Resumo](https://github.com/goncasthiago/languageStudioAzure/blob/main/img/Summarization_input.png?raw=true)
 
 
 ## Outputs
@@ -35,21 +35,21 @@ Segue abaixo as análises feitas pelo Azure AI Language Service:
 
 #### Análise de Sentimentos
 
-![s1](https://github.com/goncasthiago/LanguageCongnitve/blob/main/img/AnalyzedSentiment_s1.png?raw=true)
+![s1](https://github.com/goncasthiago/languageStudioAzure/blob/main/img/AnalyzedSentiment_s1.png?raw=true)
 
-![s2](https://github.com/goncasthiago/LanguageCongnitve/blob/main/img/AnalyzedSentiment_s2.png?raw=true)
+![s2](https://github.com/goncasthiago/languageStudioAzure/blob/main/img/AnalyzedSentiment_s2.png?raw=true)
 
-![s3](https://github.com/goncasthiago/LanguageCongnitve/blob/main/img/AnalyzedSentiment_s3.png?raw=true)
+![s3](https://github.com/goncasthiago/languageStudioAzure/blob/main/img/AnalyzedSentiment_s3.png?raw=true)
 
-![s4](https://github.com/goncasthiago/LanguageCongnitve/blob/main/img/AnalyzedSentiment_s4.png?raw=true)
+![s4](https://github.com/goncasthiago/languageStudioAzure/blob/main/img/AnalyzedSentiment_s4.png?raw=true)
 
 #### Palavras Chave
 
-![s1](https://github.com/goncasthiago/LanguageCongnitve/blob/main/img/ExtractKeyPhrases_s1.png?raw=true)
+![s1](https://github.com/goncasthiago/languageStudioAzure/blob/main/img/ExtractKeyPhrases_s1.png?raw=true)
 
 #### Resumo
 
-![s1](https://github.com/goncasthiago/LanguageCongnitve/blob/main/img/ExtractKeyPhrases_s1.png?raw=true)
+![s1](https://github.com/goncasthiago/languageStudioAzure/blob/main/img/ExtractKeyPhrases_s1.png?raw=true)
 
 
 ## Microsoft Learn
